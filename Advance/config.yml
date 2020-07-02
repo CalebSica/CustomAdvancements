@@ -1,0 +1,9 @@
+#Use {USERNAME} for player username
+#Use {NAME} for player display name (/nick)
+#Use {ADV} for advancement name
+
+normal: '{NAME} &bhas made the advancement &2&n{ADV}'
+
+goal: '{NAME} &bhas reached the goal &6&l{ADV}'
+
+challenge: '{NAME} &bhas completed the challenge &5&l{ADV}'

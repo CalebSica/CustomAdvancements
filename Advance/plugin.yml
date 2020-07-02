@@ -1,0 +1,10 @@
+name: CustomAdvancements
+main: clb.minecraft.advance.Main
+version: 1.0
+api-version: 1.13
+commands:
+    advreload:
+       description: Reload config for Custom Advancement Messages
+       usage: /advreload
+       permission: customadvancements.reload
+       permission-message: You don't have the customadvancements.reload permission.
